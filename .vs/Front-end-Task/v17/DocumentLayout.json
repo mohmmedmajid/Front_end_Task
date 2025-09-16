@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|c:\\users\\mohmmed\\source\\repos\\front-end-task\\front-end-task\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|solutionrelative:front-end-task\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|c:\\users\\mohmmed\\source\\repos\\front-end-task\\front-end-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|solutionrelative:front-end-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|c:\\users\\mohmmed\\source\\repos\\front-end-task\\front-end-task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|solutionrelative:front-end-task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|c:\\users\\mohmmed\\source\\repos\\front-end-task\\front-end-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9DB6C6-DC50-47D8-BA23-AB94FAC89DDB}|Front-end-Task\\Front-end-Task.csproj|solutionrelative:front-end-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Front-end-Task\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Front-end-Task\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T22:43:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-end-Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Front-end-Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T22:42:57.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Front-end-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\Program.cs",
+              "RelativeToolTip": "Front-end-Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:32:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Front-end-Task\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mohmmed\\source\\repos\\Front-end-Task\\Front-end-Task\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Front-end-Task\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-15T22:03:23.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿<h1 class="color"> Create a new account </h1>
+
+<input type="email" placeholder="Enter Your Email" onmouseover="Fun2()"  />
+<br />
+
+<input type="text" placeholder=" First Name" onmouseover="Fun3()" />
+<br />
+
+<input type="text" placeholder="Last Name " onmouseover="Fun4()" />
+<br />
+
+<input type="password" placeholder="Enter Your password" onmouseover="Fun5()" />
+<br />
+
+<input type="password" placeholder="Enter Your password agin"  onmouseover="Fun6()" />
+<br />
+
+<p style="color : darkorange">
+    <label class="color">Gender</label>
+    Male<input type="radio" name="Gender" />
+    Female <input type="radio" name="Gender" />
+    <br />
+    <label class="color">Study Level</label>
+    BA<input type="checkbox" />
+    Master<input type="checkbox" />
+    PHD <input type="checkbox" />
+</p>
+
+<input type="submit" value="save" class="save" onclick="Fun1()" id="Img" />
+
+
+<script>
+
+    
+        const Imag= document.getElementById('Img');
+    Imag.addEventListener("click", function()
+        {
+          document.body.style.backgroundImage = "url('../images/green.jpg')";
+        });
+    
+
+      function Fun2(){
+        alert('Enter Your Email')
+    }
+     function Fun3(){
+        alert('Enter Your First Name')
+    }
+     function Fun4(){
+        alert('Enter Your Last Name')
+    }
+     function Fun5(){
+        alert('Enter Your password')
+    }
+     function Fun6(){
+        alert('Enter Your password agin')
+    }
+
+</script>
